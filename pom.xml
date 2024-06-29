@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.40.189:8081/repository/flipkart-release/</url>
+	      <name>Canarabank Releases Repository</name>
+	      <url>http://13.201.39.64:8081/repository/Canarbank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.40.189:8081/repository/flipkart-snapshot/</url>
+	      <name>Canarabank Snapshot  Repository </name>
+	      <url>http://13.201.39.64:8081/repository/Canarabank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
